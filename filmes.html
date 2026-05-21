@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Filmes</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+
+        #listaFilmes {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .filme {
+            background-color: white;
+            border-radius: 10px;
+            padding: 15px;
+            width: 220px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.2);
+            text-align: left;
+        }
+
+        .filme h2 {
+            margin-top: 0;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Catálogo de Filmes</h1>
+
+    <button id="btnMostrar">
+        Mostrar Filmes
+    </button>
+
+    <div id="listaFilmes"></div>
+
+    <script src="./script.js"></script>
+
+</body>
+</html>

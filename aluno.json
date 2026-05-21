@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Maria Souza",
+        "idade": 20,
+        "curso": "Informática",
+        "cidade": "Novo Hamburgo",
+        "email": "mariasouza@gmail.com"
+    },
+    
+    {
+        "nome": "João Silva",
+        "idade": 19,
+        "curso": "Administração",
+        "cidade": "Campo Bom",
+        "email": "joaosilva@gmail.com"
+    },
+
+    {
+        "nome": "Ana Rambus",
+        "idade": 21,
+        "curso": "Design",
+        "cidade": "São Leopoldo",
+        "email": "anarambus@gmail.com"
+    },
+
+    {
+        "nome": "Lucas",
+        "idade": 21,
+        "curso": "Engenharia",
+        "cidade": "Lomba Grande",
+        "email": "lucas@gmail.com"
+    },
+
+    {
+        "nome": "Fernanda",
+        "idade": 23,
+        "curso": "Direito",
+        "cidade": "Parobé",
+        "email": "fernanda@gmail.com"
+    },
+
+    {
+       "nome": "João",
+       "idade": 20,
+       "curso": "Ciência da Computação",
+       "cidade": "Alvorada",
+        "email": "joao@gmail.com"
+    }
+      
+]
